@@ -1,6 +1,4 @@
 # Predict Customer Churn to Defend Revenue Streams
-#### Pablo Rivera
-#### March 2020
 
 ---
 
