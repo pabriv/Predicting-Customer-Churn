@@ -1,4 +1,4 @@
-# Predict Customer Churn to Defend Revenue Streams
+# Predicting Customer Churn to Defend Revenue Streams
 
 ---
 
